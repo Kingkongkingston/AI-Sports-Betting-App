@@ -1,0 +1,9 @@
+- Compute player-level features:
+    rolling averages, hot/cold streak, fatigue, efficiency, usage
+- Compute matchup features:
+    opponent defensive rating, allowed stats, opponent weakness
+- Compute game context features:
+    home/away, back-to-back, days rest, team pace/offense
+- Compute derived features:
+    expected stat, fatigue index, hot/cold index, variance
+- Optional: integrate expert ratings

@@ -1,0 +1,6 @@
+- Streamlit interface
+- User inputs: player name, stat, stat line, optional context
+- Call feature computation
+- Call model prediction
+- Display: probability, suggested pick, visualizations (hot/cold, opponent weakness, fatigue)
+- Optional: expert ratings, curveball alerts

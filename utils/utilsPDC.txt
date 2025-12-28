@@ -1,0 +1,6 @@
+- Load CSVs
+- Handle missing values
+- Convert dates and numbers
+- Filter starters
+- Add Home/Away flags
+- Add DaysRest column if missing

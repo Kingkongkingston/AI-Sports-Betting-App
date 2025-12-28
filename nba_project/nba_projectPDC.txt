@@ -1,0 +1,4 @@
+- Overall orchestration:
+    Load data → preprocess → compute features → create target → train model → save model
+- Optionally call app.py for interface
+- Ensure modularity for scaling (bench, new players, expert ratings)

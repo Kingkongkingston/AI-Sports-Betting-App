@@ -1,0 +1,6 @@
+- Split dataset into train/test
+- Select ML algorithm (Random Forest/XGBoost)
+- Train model on features
+- Evaluate model (accuracy, F1-score)
+- Save/load model
+- Predict Over/Under probability and suggested pick
